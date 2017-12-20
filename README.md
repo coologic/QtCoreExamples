@@ -43,3 +43,7 @@ Qt使用QtConcurrent并行计算高级API范例，请直接看博客
 这是Qt独立的一个模块本不应写在这里，但与上面多线程写在一起可能更好
 * Blog：[Qt多线程-QtConcurrent并行运算高级API](http://techieliang.com/2017/12/608/)  
 * Blog：[Qt多线程-总结QThread-QThreadPool-QtConcurrent](http://techieliang.com/2017/12/616/)  
+
+## QtContainerExample(Blog)
+Qt容器类汇总说明QList,QLinkedList,QVector,QStack,QQueue,QMap,QMultiMap,QHash,QMultiHashQSet等，请直接看博客  
+* Blog：[Qt容器类汇总说明](http://techieliang.com/2017/12/542/) 
